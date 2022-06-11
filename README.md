@@ -107,9 +107,9 @@ All the available features have (details in the ipynb file):
 ## Step 4: Residual Analysis
 The histogram and scatter plot of the residuals were produced as below.
 
-<img src="/images/histogram.png" width = 300>
+<img src="/images/histogram.png" width = 500>
 
-<img src="/images/scatter.png" width = 300>
+<img src="/images/scatter.png" width = 500>
 
 Analysis of the histogram and the scatter plot of the residuals reveals that:
 
@@ -120,7 +120,7 @@ Analysis of the histogram and the scatter plot of the residuals reveals that:
 ## Step 5: Predictions (on test set) and Model Evaluation
 The test set values were predicted and a R Score of 0.805 was obtained as below:
 
-<img src="/images/r2-score.png" width = 800>
+<img src="/images/r2-score.png" width = 1000>
 
 As can be seen, the R squared value of the test set is 80.5%, which is slightly different from the R squared value of the training set (84.5%), which is acceptable due to the insignificant difference between these two values. Therefore, it can be concluded that this model is able to generalise the results, and is not over-fitted to the train set.
   
