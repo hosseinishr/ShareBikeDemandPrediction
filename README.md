@@ -70,7 +70,7 @@ In this step the following have been implemented:
 
 - dummy variables (columns) for the categorical columns are created and the original categorical columns were dropped.
 - the dataframe has been split into train dataframe and test dataframes.
-- the normal scaling (Min-Max scaling) is applied to the numeric columns of the train dataframe, since the rest of the columns are 0/1 's from dummy variables.
+- the normal scaling (Min-Max scaling) is applied only to the numeric columns of the train dataframe, since the rest of the columns are 0/1 's from dummy variables.
 - dependent feature (y_train) and independant dataframe (x_train) has been created.
 
 ## Step 3: Model Building and Training
