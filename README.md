@@ -28,6 +28,7 @@ The dataset was successfully imported, and inspected. The following were found:
 - dependent variable: 'cnt' or the target variable
 - independent variable: the rest of the variables (features)
 - No duplicated rows were observed.
+- Some of the columns that were not needed for the analysis and model building were dropped ('instant', 'dteday', 'casual', 'registered').
 
 ### EDA
 For EDA of the categorical columns, the unique values of the column were found and then were replaced with the expressions advised in the data dictionary file.
