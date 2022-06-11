@@ -31,7 +31,7 @@ The dataset was successfully imported, and inspected. The following were found:
 - Some of the columns that were not needed for the analysis and model building were dropped ('instant', 'dteday', 'casual', 'registered').
 
 ### EDA
-For EDA of the categorical columns, the unique values of the column were found and then were replaced with the expressions advised in the data dictionary file.
+For EDA of the categorical columns, the unique values of the column were found and then were replaced with the terms advised in the data dictionary file.
 The most important categorical features that are contributing to the target variable, i.e. 'cnt', are shown in the figures below. It can be observed that moving from one category to another category within the column shows changes in the rental bike count (cnt).  
   
 
