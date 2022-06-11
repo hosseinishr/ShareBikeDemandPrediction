@@ -34,19 +34,19 @@ For EDA of the categorical columns, the unique of the column were found and then
 The most important categorical features that are contributing to the target variable, i.e. 'cnt' are shown in the figures below. It can be observed that moving from one category to another category within the column shows changes in the rental bike count (cnt).
 **'cnt' vs 'season'**
 
-<img src="/images/season.png" width = 300>
+<img src="/images/season.png" width = 500>
 
 **'cnt' vs 'yr'**
 
-<img src="/images/yr.png" width = 300>
+<img src="/images/yr.png" width = 500>
 
 **'cnt' vs 'mnth'**
 
-<img src="/images/mnth.png" width = 300>
+<img src="/images/mnth.png" width = 500>
 
 **'cnt' vs 'weathersit'**
 
-<img src="/images/weathersit.png" width = 300>
+<img src="/images/weathersit.png" width = 500>
 
 EDA of the numeric features is shown below in the pair-plot and the correlations in the heatmap.
 
