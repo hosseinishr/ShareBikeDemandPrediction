@@ -50,7 +50,7 @@ The most important categorical features that are contributing to the target vari
 
 <img src="/images/weathersit.png" width = 500>
 
-EDA of the numeric features is shown below in the pair-plot and the correlations in the heatmap.
+EDA of the numeric features is shown below in the pair-plots and the correlations in the heatmap.
 
 <img src="/images/pairplots.png" width = 800>
 
