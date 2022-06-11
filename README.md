@@ -52,7 +52,7 @@ EDA of the numeric features is shown below in the pair-plot and the correlations
 
 <img src="/images/pairplots.png" width = 800>
 
-<img src="/images/heatmap.png" width = 300>
+<img src="/images/heatmap.png" width = 500>
 
 Inspection of the pairplots and the heatmap of the correlations reveals that:
 
