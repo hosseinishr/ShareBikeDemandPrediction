@@ -2,11 +2,11 @@
 
 ## Table of Contents
 * [Problem Statement](#problem-statement)
-* [Step 1: Importing, Understanding the Data, and EDA](#step-1-importing,-understanding-the-data,-and-eda)
-* [Step 2: Data Preparation for Building Model](#data-cleaning)
-* [Step 3: Model Building and Training](#data-analysis)
-* [Step 4: Residual Analysis](#data-analysis)
-* [Step 5: Predictions (on test set) and Model Evaluation](#data-analysis)
+* [Step 1 Importing, Understanding the Data, and EDA](#step-1-importing,-understanding-the-data,-and-eda)
+* [Step 2 Data Preparation for Building Model](#data-cleaning)
+* [Step 3 Model Building and Training](#data-analysis)
+* [Step 4 Residual Analysis](#data-analysis)
+* [Step 5 Predictions (on test set) and Model Evaluation](#data-analysis)
 * [Answer to the Business Problem](#recommendations)
 * [Acknowledgements](#acknowledgements)
 
