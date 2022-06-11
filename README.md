@@ -107,6 +107,8 @@ All the available features have (details in the ipynb file):
 - very low p-values, meaning they are all significant;
 - and low VIFs, meaning they are all independent of each other.
 
+<img src="/images/p-values.png" width = 500>
+
 ## Step 4: Residual Analysis
 The histogram and scatter plot of the residuals were produced as below.
 
