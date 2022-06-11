@@ -130,7 +130,7 @@ As can be seen, the R squared value of the test set is 80.5%, which is slightly 
 To answer the qusetions raised by the business problem:
 - the top 3 predictors for share bike rentals are: temperature (temp), snow conditions (snow) and the year 2019.
 - the equation for interpreting the rental counts based on the above variables is:  
-### $ bike \space rentals = 0.5684 \times temp -0.2425 \times snow + 0.2296 \times "2019" + the \space rest \space of \space the \space multipliers \space and \space features $  
+#### bike rentals = 0.5684 x temp -0.2425 x snow + 0.2296 x "2019" + the rest of the multipliers and features  
 This means:
     - 1 unit increase in temperature (without increase in the rest of the features) increases the bike rentals by 0.56 units.
     - 1 unit increase in snow conditions, on the other hand, decreases the bike rentals by 0.24 units.
