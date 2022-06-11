@@ -82,7 +82,7 @@ In this step the folowing have been implemented:
 RFE has selected the following 20 feaures: 
 'temp', 'atemp', 'hum', 'windspeed', 'spring', 'summer', 'winter', '2019', 'Dec', 'Feb', 'Jan', 'Jul', 'May', 'Nov', 'Sep', 'non-holiday', 'Sun', 'working-day', 'mist+clouds', 'snow'
 
-Then, by a step-wise model building in stats model, and monitoring the p-value and VIF of the features, the following features have been dropped subsequently to drive the final MLR:
+Then, by a step-wise model building in stats model, and monitoring the p-value and VIF of the features, the following features have been dropped subsequently to derive the final MLR:
 - Looking at the p-values and VIFs, it was seen that 'atemp' has a high p-value and a high VIF. Hence, 'atemp' was dropped first.
 - Then, 'May' was dropped which had a high p-value and low VIF.
 - Then 'Feb' was dropped with high p-value ad low VIF.
