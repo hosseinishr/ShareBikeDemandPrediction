@@ -2,7 +2,7 @@
 
 ## Table of Contents
 * [Problem Statement](#problem-statement)
-* [Step 1: Importing, Understanding the Data, and EDA](#data-understanding)
+* [Step 1: Importing, Understanding the Data, and EDA](#step-1:-importing,-understanding-the-data,-and-eda)
 * [Step 2: Data Preparation for Building Model](#data-cleaning)
 * [Step 3: Model Building and Training](#data-analysis)
 * [Step 4: Residual Analysis](#data-analysis)
@@ -19,3 +19,5 @@ A share-bike company wants to understand the factors that impact the rental of t
 For this purpose, a dataset of the share-bike rentals are provided containing the count of rental bikes for different values of features including temperature, humidity, wind speed, year, month, season, holidays, etc.
 
 The objective is to analyse the data, develop a linear regression model, if applicable at all, and advise the business with feedback on the above business problems.
+
+## Step 1: Importing, Understanding the Data, and EDA
