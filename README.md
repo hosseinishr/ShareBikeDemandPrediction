@@ -132,8 +132,8 @@ To answer the qusetions raised by the business problem:
 - the equation for interpreting the rental counts based on the above variables is:  
 #### bike rentals = 0.5684 x temp -0.2425 x snow + 0.2296 x "2019" + the rest of the multipliers and features  
 This means:  
-    - 1 unit increase in temperature (without increase in the rest of the features) increases the bike rentals by 0.56 units.  
-    - 1 unit increase in snow conditions, on the other hand, decreases the bike rentals by 0.24 units.
+- 1 unit increase in temperature (without increase in the rest of the features) increases the bike rentals by 0.56 units.  
+- 1 unit increase in snow conditions, on the other hand, decreases the bike rentals by 0.24 units.
 
 ## Acknowledgements
 - I would like to acknowledge the feedback, support and dataset provision by [upGrad](https://www.upgrad.com/gb) and The [International Institute of Information Technology (IIIT), Bangalore](https://www.iiitb.ac.in/).  
