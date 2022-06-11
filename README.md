@@ -60,7 +60,7 @@ Inspection of the pairplots and the heatmap of the correlations reveals that:
 - The absolute value of the correlation between (windspeed and cnt) is much higher than the correlation between (hum and cnt).
 - Also, it can be seen that temp and atemp are highly linearly correlated. This means that either of these can be dropped, however, it is up to RFE to choose the most important features during model building.
 
-**Need to consider a Multiple Linear Regression (MLR) model?**
+**Need to consider a Multiple Linear Regression (MLR) model?**  
 Investigating the categorical and numeric columns show that there is some linearity between some of the features (numeric and categorical) and the target (cnt). Therefore, a Multiple Linear Regression (MLR) model should be considered and implemented.
 
 ## Step 2: Data Preparation for Building Model
