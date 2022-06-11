@@ -1,4 +1,4 @@
-# ShareBikeDemandPrediction
+# Share Bike Demand Prediction
 
 ## Table of Contents
 * [Problem Statement](#problem-statement)
