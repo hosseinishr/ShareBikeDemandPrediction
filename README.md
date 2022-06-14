@@ -98,7 +98,7 @@ Therefore, this model (with the following 13 features) will be considered as the
 During the feature drop stage:
 
 - the R squared decreased from 0.852 (for 20 features selected by RFE) to 0.845 (in the final MLR model).
-- the Adjusted R squared increased from 0.846 (for 20 features selected by RFE) to 0.841 (in the final MLR model).
+- the Adjusted R squared also decreased from 0.846 (for 20 features selected by RFE) to 0.841 (in the final MLR model).
 
 This means this final model captures 84.5% of the variance in the target variable by the available features.
 
